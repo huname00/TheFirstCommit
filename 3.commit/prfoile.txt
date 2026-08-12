@@ -1,2 +1,2 @@
-email :
-gitID :
+email :dustksehd610@naver.com
+gitID :huname00
